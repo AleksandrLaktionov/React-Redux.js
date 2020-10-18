@@ -1,0 +1,46 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems {
+    padding: 10px;
+}
+
+.dialogs a {
+    margin: 0;
+    padding: 6px;
+    background-color: cadetblue;
+    color: black;
+    border-radius: 20px;
+    text-decoration: none;
+    text-indent: 10px;
+    line-height: 50px;
+    box-shadow: rgb(0, 0, 0) 2px 2px 3px 2px;
+}
+
+.dialogs a:hover {
+    background-color: aquamarine;
+}
+
+.dialogs a:active {
+    color: brown;
+    background-color: snow;
+    box-shadow: rgb(0, 0, 0) 2px 2px 3px 2px inset;
+}
+
+.messages {
+    padding: 10px;
+}
+
+.send {
+    margin: 0;
+    padding: 2px;
+    background-color: cadetblue;
+    color: black;
+    border-radius: 20px;
+    text-decoration: none;
+    text-indent: 4px;
+    line-height: 20px;
+    box-shadow: rgb(0, 0, 0) 2px 2px 3px 2px;
+}

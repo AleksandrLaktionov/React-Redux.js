@@ -1,0 +1,15 @@
+.MyPost{
+    margin: 10px;
+}
+
+.addPost{
+    margin: 2px;
+    padding: 2px;
+    background-color: cadetblue;
+    color: black;
+    border-radius: 20px;
+    text-decoration: none;
+    text-indent: 5px;
+    line-height: 20px;
+    box-shadow: rgb(0, 0, 0) 2px 2px 3px 2px;
+}
