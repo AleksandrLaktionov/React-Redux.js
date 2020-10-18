@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/React-Redux.js/static/css/main.e1591712.chunk.css",
+    "main.js": "/React-Redux.js/static/js/main.a02be128.chunk.js",
+    "main.js.map": "/React-Redux.js/static/js/main.a02be128.chunk.js.map",
+    "runtime-main.js": "/React-Redux.js/static/js/runtime-main.540cdccb.js",
+    "runtime-main.js.map": "/React-Redux.js/static/js/runtime-main.540cdccb.js.map",
+    "static/js/2.59e68bd9.chunk.js": "/React-Redux.js/static/js/2.59e68bd9.chunk.js",
+    "static/js/2.59e68bd9.chunk.js.map": "/React-Redux.js/static/js/2.59e68bd9.chunk.js.map",
+    "static/css/3.4cd9a8a5.chunk.css": "/React-Redux.js/static/css/3.4cd9a8a5.chunk.css",
+    "static/js/3.9fd5768a.chunk.js": "/React-Redux.js/static/js/3.9fd5768a.chunk.js",
+    "static/js/3.9fd5768a.chunk.js.map": "/React-Redux.js/static/js/3.9fd5768a.chunk.js.map",
+    "static/css/4.47035ed0.chunk.css": "/React-Redux.js/static/css/4.47035ed0.chunk.css",
+    "static/js/4.a8dc4259.chunk.js": "/React-Redux.js/static/js/4.a8dc4259.chunk.js",
+    "static/js/4.a8dc4259.chunk.js.map": "/React-Redux.js/static/js/4.a8dc4259.chunk.js.map",
+    "static/css/5.eaf5c1ad.chunk.css": "/React-Redux.js/static/css/5.eaf5c1ad.chunk.css",
+    "static/js/5.baa637fa.chunk.js": "/React-Redux.js/static/js/5.baa637fa.chunk.js",
+    "static/js/5.baa637fa.chunk.js.map": "/React-Redux.js/static/js/5.baa637fa.chunk.js.map",
+    "index.html": "/React-Redux.js/index.html",
+    "precache-manifest.9dd9ea2ac57f8ca627fd5ea2dde158f6.js": "/React-Redux.js/precache-manifest.9dd9ea2ac57f8ca627fd5ea2dde158f6.js",
+    "service-worker.js": "/React-Redux.js/service-worker.js",
+    "static/css/3.4cd9a8a5.chunk.css.map": "/React-Redux.js/static/css/3.4cd9a8a5.chunk.css.map",
+    "static/css/4.47035ed0.chunk.css.map": "/React-Redux.js/static/css/4.47035ed0.chunk.css.map",
+    "static/css/5.eaf5c1ad.chunk.css.map": "/React-Redux.js/static/css/5.eaf5c1ad.chunk.css.map",
+    "static/css/main.e1591712.chunk.css.map": "/React-Redux.js/static/css/main.e1591712.chunk.css.map",
+    "static/js/2.59e68bd9.chunk.js.LICENSE.txt": "/React-Redux.js/static/js/2.59e68bd9.chunk.js.LICENSE.txt",
+    "static/js/4.a8dc4259.chunk.js.LICENSE.txt": "/React-Redux.js/static/js/4.a8dc4259.chunk.js.LICENSE.txt",
+    "static/media/Lucky Luke - Cooler Than Me.mp3": "/React-Redux.js/static/media/Lucky Luke - Cooler Than Me.e75c6bd1.mp3",
+    "static/media/blue-butterfly.jpg": "/React-Redux.js/static/media/blue-butterfly.b3dea5eb.jpg",
+    "static/media/loading.svg": "/React-Redux.js/static/media/loading.601aa948.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.540cdccb.js",
+    "static/js/2.59e68bd9.chunk.js",
+    "static/css/main.e1591712.chunk.css",
+    "static/js/main.a02be128.chunk.js"
+  ]
+}
